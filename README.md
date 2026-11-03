@@ -11,7 +11,7 @@
 <div align="center">
   <!-- Keep whitespace outside the badge links to avoid an underlined gap. -->
   <!-- Use raw HTML aliases to keep Doxygen's emitted comment delimiters balanced. -->
-  <!--! @htmlonly_start -->
+  <!--! @htmlonly_start-->
   <a href="https://www.star-history.com/lizardbyte/sunshine"><picture><source
     media="(prefers-color-scheme: dark)"
     srcset="https://api.star-history.com/badge?repo=LizardByte/Sunshine&type=rank&theme=dark"
